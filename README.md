@@ -1,2 +1,2 @@
 # InsideSherpa
-JPMorgan Chase &amp; co.
+JPMorgan Chase &amp; Co.
